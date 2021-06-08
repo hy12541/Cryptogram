@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Crypto6300</string>
+    <string name="userName">User Name</string>
+    <string name="Login">Log in</string>
+    <string name="newPlayer">New Player</string>
+    <string name="existingUser">User Login</string>
+    <string name="email">Email</string>
+    <string name="addNewPlayer">Sign Up and Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="player">Player</string>
+    <string name="playerAct1">Create a Cryptogram</string>
+    <string name="playerAct2">Solve a Cryptogram</string>
+    <string name="playerAct3">View Player List</string>
+    <string name="logout">Log out</string>
+    <string name="title">Title</string>
+    <string name="solution">Solution</string>
+    <string name="hint">Hint</string>
+    <string name="encodedPhrase">Encoded Phrase</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="admin">Administrator</string>
+
+</resources>
